@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/todo-react/static/css/main.ec91ba29.chunk.css",
+    "main.js": "/todo-react/static/js/main.3bf9d0ce.chunk.js",
+    "main.js.map": "/todo-react/static/js/main.3bf9d0ce.chunk.js.map",
+    "runtime-main.js": "/todo-react/static/js/runtime-main.6370b6c4.js",
+    "runtime-main.js.map": "/todo-react/static/js/runtime-main.6370b6c4.js.map",
+    "static/js/2.4863f499.chunk.js": "/todo-react/static/js/2.4863f499.chunk.js",
+    "static/js/2.4863f499.chunk.js.map": "/todo-react/static/js/2.4863f499.chunk.js.map",
+    "index.html": "/todo-react/index.html",
+    "precache-manifest.d0ed00095a37fc5a0f46aa5c7890856a.js": "/todo-react/precache-manifest.d0ed00095a37fc5a0f46aa5c7890856a.js",
+    "service-worker.js": "/todo-react/service-worker.js",
+    "static/css/main.ec91ba29.chunk.css.map": "/todo-react/static/css/main.ec91ba29.chunk.css.map",
+    "static/js/2.4863f499.chunk.js.LICENSE.txt": "/todo-react/static/js/2.4863f499.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/todo-react/static/media/Montserrat-VariableFont_wght.52a37115.ttf",
+    "static/media/shrug.png": "/todo-react/static/media/shrug.8b5b2713.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6370b6c4.js",
+    "static/js/2.4863f499.chunk.js",
+    "static/css/main.ec91ba29.chunk.css",
+    "static/js/main.3bf9d0ce.chunk.js"
+  ]
+}
